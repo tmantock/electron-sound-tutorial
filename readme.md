@@ -1,3 +1,3 @@
-# Accompanying repository for the Electron guide
+# Electron Sound Tutorial
 
-![Sound Machine](https://rawgithub.com/bojzi/sound-machine/master/sketch/sound-machine.png)
+A guide for the electron application tool
